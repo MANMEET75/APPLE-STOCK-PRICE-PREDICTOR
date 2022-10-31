@@ -1,4 +1,4 @@
-# APPLE-STOCK-PRICE-PREDICTOR
+### APPLE-STOCK-PRICE-PREDICTION
 
 For this Model, we have collected 12 years of the dataset from 
 yahoofinance.com then After using all the Feature Engineering techniques. 
